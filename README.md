@@ -9,7 +9,7 @@
 - Web Development enthusiast
 - Looking forward to come up and contribute to some cool projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amankumar53082&count_private=true&show_icons=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar53082"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itxAcas&count_private=true&show_icons=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=itxAcas"/>
 
  ### Languages/Tools:
  <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
@@ -28,6 +28,3 @@
 </a>
 <a target="_blank" href="https://www.instagram.com/_____itx_acas_____/">
   <img align="left" alt="Instagram" height ="30px" width="60px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a target="_blank" href="https://https://www.twitter.com/TechWithAakash">
-  <img align="left" alt="Twitter" height="30px" width="60px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
