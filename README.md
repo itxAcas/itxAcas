@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aakash Ranjan
 - 👀 I’m interested in ... Web Development
-- 👯 Having a good knowledge of C,Java.
+- 👯 Having a good knowledge of Java,html,css,mysql.
 - 🌱 I’m currently learning ... Frontend Web-Development
 - 🤔 I’m looking for Good project ideas based on the above language to contribute my best.
 
